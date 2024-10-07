@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "246606694999",
+    "project_id": "parent-control-1",
+    "storage_bucket": "parent-control-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246606694999:android:2c384255fd1b7fde11b112",
+        "android_client_info": {
+          "package_name": "com.example.parentcontrol"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3z4JwEiF7lnvzcI-vnU_F21kYGb4Y704"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Parent Control</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="time_0_minutes">Time: 0 minutes</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="memory_game">Memory Game</string>
+    <string name="insights_display_ai_generated_recommendations_here">Insights: Display AI-generated recommendations here.</string>
+</resources>
